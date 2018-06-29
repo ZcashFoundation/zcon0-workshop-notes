@@ -1,6 +1,5 @@
 # zcon0-workshop-notes
-The Workshop notes for zcon0
+A collection of workshop notes from zcon0, originally hosted by @RichardLitt. (thanks Richard!)
 
-**Note: If anyone has access to move this to the @zcash org or something, let me know. Happy to move it ASAP.**
-License
-Not mine. cc0.
+## License
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
